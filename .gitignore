@@ -95,3 +95,10 @@ Plugins/**/Binaries/*
 Plugins/**/Intermediate/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
+/Content/MS_DecoStoneTiles
+/Content/MSPresets
+/Content/NecrosUtilityMatPack
+/Content/AdvancedGlassPack
+/Content/AmbientPianoMusicVolFive
+/Content/CellarMaterials
+/Content/AdvancedVillagePack
